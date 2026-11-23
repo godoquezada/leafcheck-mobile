@@ -1,0 +1,62 @@
+[
+  {
+    "threshold": 0.5,
+    "OOD_False_Acceptance_Rate": 0.0133,
+    "OOD_Rejection_Rate": 0.9867,
+    "Known_Medicinal_Acceptance_Rate": 0.8883
+  },
+  {
+    "threshold": 0.55,
+    "OOD_False_Acceptance_Rate": 0.01,
+    "OOD_Rejection_Rate": 0.99,
+    "Known_Medicinal_Acceptance_Rate": 0.867
+  },
+  {
+    "threshold": 0.6,
+    "OOD_False_Acceptance_Rate": 0.0067,
+    "OOD_Rejection_Rate": 0.9933,
+    "Known_Medicinal_Acceptance_Rate": 0.8534
+  },
+  {
+    "threshold": 0.65,
+    "OOD_False_Acceptance_Rate": 0.0033,
+    "OOD_Rejection_Rate": 0.9967,
+    "Known_Medicinal_Acceptance_Rate": 0.8338
+  },
+  {
+    "threshold": 0.7,
+    "OOD_False_Acceptance_Rate": 0.0033,
+    "OOD_Rejection_Rate": 0.9967,
+    "Known_Medicinal_Acceptance_Rate": 0.815
+  },
+  {
+    "threshold": 0.75,
+    "OOD_False_Acceptance_Rate": 0.0033,
+    "OOD_Rejection_Rate": 0.9967,
+    "Known_Medicinal_Acceptance_Rate": 0.7954
+  },
+  {
+    "threshold": 0.8,
+    "OOD_False_Acceptance_Rate": 0.0033,
+    "OOD_Rejection_Rate": 0.9967,
+    "Known_Medicinal_Acceptance_Rate": 0.7749
+  },
+  {
+    "threshold": 0.85,
+    "OOD_False_Acceptance_Rate": 0.0,
+    "OOD_Rejection_Rate": 1.0,
+    "Known_Medicinal_Acceptance_Rate": 0.746
+  },
+  {
+    "threshold": 0.9,
+    "OOD_False_Acceptance_Rate": 0.0,
+    "OOD_Rejection_Rate": 1.0,
+    "Known_Medicinal_Acceptance_Rate": 0.6931
+  },
+  {
+    "threshold": 0.95,
+    "OOD_False_Acceptance_Rate": 0.0,
+    "OOD_Rejection_Rate": 1.0,
+    "Known_Medicinal_Acceptance_Rate": 0.5746
+  }
+]

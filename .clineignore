@@ -1,0 +1,34 @@
+# Virtual environment & Python cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Large image datasets
+data/
+!data/plants_db.json
+!data/data_summary.csv
+dataset/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Trained model weights & large binary artifacts
+*.keras
+*.h5
+models/*.pth
+models/*.pt
+models/*.onnx
+*.joblib
+
+# Environment secrets & local logs
+.env
+.env.*
+*.log
+
+# Academic documents & proposal files
+docs/
+*.pdf
+*.docx

@@ -1,0 +1,4 @@
+Model,Test_Accuracy_%,Macro_F1_%,Train_Time_Min
+MobileNetV2 (Baseline),79.94,79.46,6.4
+EfficientNetB0 (Single-Pass),91.52,91.42,12.94
+EfficientNetB0 + 4-View TTA (Production),92.0,91.92,12.94

@@ -1,0 +1,14 @@
+{
+  "baseline": {
+    "accuracy": 0.291970802919708,
+    "precision_weighted": 0.3196565069497126,
+    "recall_weighted": 0.291970802919708,
+    "f1_weighted": 0.2666369489537092
+  },
+  "primary": {
+    "accuracy": 0.870235198702352,
+    "precision_weighted": 0.8749709534330014,
+    "recall_weighted": 0.870235198702352,
+    "f1_weighted": 0.8705046695038379
+  }
+}

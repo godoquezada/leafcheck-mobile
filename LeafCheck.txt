@@ -1,0 +1,10 @@
+LeafCheck/
+├── app.py                     # Main Streamlit application
+├── requirements.txt           # streamlit, tensorflow-cpu, pillow, numpy
+├── models/
+│   ├── leafcheck_model.keras  # Exported MobileNetV2
+│   └── class_indices.json     # Class index-to-name map
+├── data/
+│   └── plants_db.json         # Botanical reference metadata
+└── notebooks/
+    └── LeafCheck_Training.ipynb

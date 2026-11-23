@@ -1,0 +1,526 @@
+{
+  "10Coleus_scutellarioides(CS)": {
+    "key": "10Coleus_scutellarioides(CS)",
+    "common_name": "Mayana",
+    "scientific_name": "Coleus scutellarioides",
+    "other_local_names": [
+      "Mayana",
+      "Lapunaya",
+      "Daponaya"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Traditionally referenced in Philippine ethnobotanical literature for topical poultices on minor bruises, sprains, and mild headaches."
+  },
+  "11Phyllanthus_niruri(PN)": {
+    "key": "11Phyllanthus_niruri(PN)",
+    "common_name": "Sampa-sampalukan",
+    "scientific_name": "Phyllanthus niruri",
+    "other_local_names": [
+      "Sampa-sampalukan",
+      "Talikod",
+      "Stonebreaker"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Documented in Philippine herbal references for traditional renal and urinary tract support."
+  },
+  "12Corchorus_olitorius(CO)": {
+    "key": "12Corchorus_olitorius(CO)",
+    "common_name": "Saluyot",
+    "scientific_name": "Corchorus olitorius",
+    "other_local_names": [
+      "Saluyot",
+      "Tagabang",
+      "Jute mallow"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Widely consumed leafy vegetable rich in dietary fiber, antioxidants, and vitamins; traditionally noted for digestive wellness."
+  },
+  "13Momordica_charantia_(MC)": {
+    "key": "13Momordica_charantia_(MC)",
+    "common_name": "Ampalaya",
+    "scientific_name": "Momordica charantia",
+    "other_local_names": [
+      "Ampalaya",
+      "Palia",
+      "Bitter melon"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "DOH-endorsed medicinal plant traditionally recognized for supporting blood glucose regulation."
+  },
+  "14Euphorbia_hirta(EH)": {
+    "key": "14Euphorbia_hirta(EH)",
+    "common_name": "Tawa-tawa",
+    "scientific_name": "Euphorbia hirta",
+    "other_local_names": [
+      "Tawa-tawa",
+      "Gatas-gatas",
+      "Asthma plant"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "Contains milky latex that may cause mild skin or gastrointestinal irritation; professional guidance recommended.",
+    "traditional_uses": "Traditionally utilized in Philippine folk medicine for respiratory comfort and supportive hydration care."
+  },
+  "15Curcuma_longa(CL)": {
+    "key": "15Curcuma_longa(CL)",
+    "common_name": "Luyang Dilaw (Turmeric)",
+    "scientific_name": "Curcuma longa",
+    "other_local_names": [
+      "Luyang Dilaw",
+      "Kalawag",
+      "Dulaw"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Recognized in ethnobotanical literature for anti-inflammatory and antioxidant properties."
+  },
+  "16Carmona_retusa(CR)": {
+    "key": "16Carmona_retusa(CR)",
+    "common_name": "Tsaang Gubat",
+    "scientific_name": "Carmona retusa",
+    "other_local_names": [
+      "Tsaang Gubat",
+      "Alangitngit",
+      "Wild tea"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "DOH-endorsed medicinal plant traditionally used for relief of mild gastrointestinal discomfort and spasms."
+  },
+  "17Senna_alata(SA)": {
+    "key": "17Senna_alata(SA)",
+    "common_name": "Akapulko",
+    "scientific_name": "Senna alata",
+    "other_local_names": [
+      "Akapulko",
+      "Bayabas-bayabasan",
+      "Ringworm bush"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "Primarily studied for external dermatological applications.",
+    "traditional_uses": "DOH-endorsed medicinal plant known for topical antifungal activity against ringworm and tinea infections."
+  },
+  "18Mentha_cordifolia_Opiz(MCO)": {
+    "key": "18Mentha_cordifolia_Opiz(MCO)",
+    "common_name": "Yerba Buena",
+    "scientific_name": "Mentha cordifolia Opiz",
+    "other_local_names": [
+      "Yerba Buena",
+      "Herba Buena",
+      "Philippine mint"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "DOH-endorsed medicinal plant traditionally referenced for relief of mild body aches and muscular discomfort."
+  },
+  "19Capsicum_frutescens(CF)": {
+    "key": "19Capsicum_frutescens(CF)",
+    "common_name": "Siling Labuyo",
+    "scientific_name": "Capsicum frutescens",
+    "other_local_names": [
+      "Siling Labuyo",
+      "Katumbal",
+      "Bird's eye chili"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "High capsaicin content can irritate eyes, skin, and sensitive mucous membranes.",
+    "traditional_uses": "Leaves are used as culinary greens; plant compounds are traditionally studied for circulatory stimulation."
+  },
+  "1Hibiscus_rosa-sinensis(HRS)": {
+    "key": "1Hibiscus_rosa-sinensis(HRS)",
+    "common_name": "Gumamela",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "other_local_names": [
+      "Gumamela",
+      "Tapulanga",
+      "China rose"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Traditionally referenced in Philippine folk medicine as an external emollient poultice for minor boils and swelling."
+  },
+  "20Jatropha_curcas(JC)": {
+    "key": "20Jatropha_curcas(JC)",
+    "common_name": "Tuba-tuba",
+    "scientific_name": "Jatropha curcas",
+    "other_local_names": [
+      "Tuba-tuba",
+      "Tubang-bakod",
+      "Physic nut"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "TOXICITY WARNING: Seeds and sap contain toxic toxalbumins (curcin). Do NOT ingest; historically limited to external folk poultices.",
+    "traditional_uses": "Studied in ethnobotany for external topical applications only; ingestion poses serious poisoning risks."
+  },
+  "21Ocimum_basilicum(OB)": {
+    "key": "21Ocimum_basilicum(OB)",
+    "common_name": "Balanoy (Sweet Basil)",
+    "scientific_name": "Ocimum basilicum",
+    "other_local_names": [
+      "Balanoy",
+      "Solasi",
+      "Sweet basil"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Aromatic culinary herb traditionally noted for carminative and mild digestive support."
+  },
+  "22Nerium_oleander(NO)": {
+    "key": "22Nerium_oleander(NO)",
+    "common_name": "Adelfa",
+    "scientific_name": "Nerium oleander",
+    "other_local_names": [
+      "Adelfa",
+      "Oleander"
+    ],
+    "is_medicinal": false,
+    "toxicity_alert": "CRITICAL POISON WARNING: All parts of Nerium oleander contain lethal cardiac glycosides. Strictly poisonous—never ingest or boil.",
+    "traditional_uses": "Ornamental plant studied in toxicology/pharmacology; unsafe for household herbal preparation."
+  },
+  "23Pandanus_amaryllifolius(PA)": {
+    "key": "23Pandanus_amaryllifolius(PA)",
+    "common_name": "Pandan Mabango",
+    "scientific_name": "Pandanus amaryllifolius",
+    "other_local_names": [
+      "Pandan",
+      "Pandan Mabango",
+      "Fragrant screwpine"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Widely used aromatic culinary leaf traditionally referenced for mild soothing and diuretic properties."
+  },
+  "24Aloe_barbadensis_Miller(ABM)": {
+    "key": "24Aloe_barbadensis_Miller(ABM)",
+    "common_name": "Sabila (Aloe Vera)",
+    "scientific_name": "Aloe barbadensis Miller",
+    "other_local_names": [
+      "Sabila",
+      "Aloe Vera"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "Yellow leaf latex (aloin) can cause gastrointestinal cramping if ingested; primarily used topically.",
+    "traditional_uses": "Widely documented for topical soothing of minor sunburns, skin dryness, and superficial abrasions."
+  },
+  "25Lagerstroemia_speciosa(LS)": {
+    "key": "25Lagerstroemia_speciosa(LS)",
+    "common_name": "Banaba",
+    "scientific_name": "Lagerstroemia speciosa",
+    "other_local_names": [
+      "Banaba",
+      "Mitla",
+      "Queen's crape myrtle"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Philippine medicinal plant containing corosolic acid, traditionally studied for metabolic and urinary support."
+  },
+  "26Averrhoea_bilimbi(AVB)": {
+    "key": "26Averrhoea_bilimbi(AVB)",
+    "common_name": "Kamias",
+    "scientific_name": "Averrhoa bilimbi",
+    "other_local_names": [
+      "Kamias",
+      "Iba",
+      "Bilimbi"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "High oxalic acid content; individuals with kidney conditions should avoid excessive intake.",
+    "traditional_uses": "Traditionally referenced in local ethnobotany for external skin applications and culinary acidifying."
+  },
+  "27Annona_muricata(AM)": {
+    "key": "27Annona_muricata(AM)",
+    "common_name": "Guyabano",
+    "scientific_name": "Annona muricata",
+    "other_local_names": [
+      "Guyabano",
+      "Labana",
+      "Soursop"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "Long-term excessive consumption of leaves/seeds is discouraged due to neurotoxic alkaloid (annonacin) concerns.",
+    "traditional_uses": "Traditionally studied in ethnobotanical literature for antioxidant and mild calming properties."
+  },
+  "28Citrus_aurantiifolia(CIA)": {
+    "key": "28Citrus_aurantiifolia(CIA)",
+    "common_name": "Dayap (Key Lime)",
+    "scientific_name": "Citrus aurantiifolia",
+    "other_local_names": [
+      "Dayap",
+      "Bilolo",
+      "Key lime"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Aromatic citrus leaves traditionally referenced for respiratory comfort and vitamin C support."
+  },
+  "29Premna_odorata(PO)": {
+    "key": "29Premna_odorata(PO)",
+    "common_name": "Alagaw",
+    "scientific_name": "Premna odorata",
+    "other_local_names": [
+      "Alagaw",
+      "Adgau",
+      "Fragrant premna"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Traditional Philippine medicinal tree whose leaves are referenced for cough and phlegm relief."
+  },
+  "2Psidium_guajava(PG)": {
+    "key": "2Psidium_guajava(PG)",
+    "common_name": "Bayabas (Guava)",
+    "scientific_name": "Psidium guajava",
+    "other_local_names": [
+      "Bayabas",
+      "Guyabas",
+      "Guava"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "DOH-endorsed medicinal plant recognized for antiseptic wound washing and mild astringent properties."
+  },
+  "30Gliricidia_sepium(GS)": {
+    "key": "30Gliricidia_sepium(GS)",
+    "common_name": "Kakawate (Madre de Cacao)",
+    "scientific_name": "Gliricidia sepium",
+    "other_local_names": [
+      "Kakawate",
+      "Madre de Cacao"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "Primarily used externally for skin conditions; bark/seeds can be toxic if ingested.",
+    "traditional_uses": "Traditionally used in Philippine folk practice as an external topical wash for skin irritation and scabies."
+  },
+  "31Citrus_sinensis(CIS)": {
+    "key": "31Citrus_sinensis(CIS)",
+    "common_name": "Kahel (Sweet Orange)",
+    "scientific_name": "Citrus sinensis",
+    "other_local_names": [
+      "Kahel",
+      "Dalandan",
+      "Sweet orange"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Aromatic leaves referenced in traditional herbal practices for mild calming and digestive comfort."
+  },
+  "32Mangifera_indica(MI)": {
+    "key": "32Mangifera_indica(MI)",
+    "common_name": "Mangga (Mango)",
+    "scientific_name": "Mangifera indica",
+    "other_local_names": [
+      "Mangga",
+      "Mango"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "Sap from stems/leaves may cause contact dermatitis in individuals sensitive to urushiol-like compounds.",
+    "traditional_uses": "Young leaves are rich in phenolic antioxidants (mangiferin) and referenced in traditional respiratory care."
+  },
+  "33Citrus_microcarpa(CM)": {
+    "key": "33Citrus_microcarpa(CM)",
+    "common_name": "Kalamansi",
+    "scientific_name": "Citrus microcarpa",
+    "other_local_names": [
+      "Kalamansi",
+      "Kalamunding",
+      "Philippine lime"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Common Philippine citrus traditionally referenced for soothing mild throat irritation and skin cleansing."
+  },
+  "34Impatiens_balsamina(IB)": {
+    "key": "34Impatiens_balsamina(IB)",
+    "common_name": "Kamantigi",
+    "scientific_name": "Impatiens balsamina",
+    "other_local_names": [
+      "Kamantigi",
+      "Solonga",
+      "Garden balsam"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Traditionally applied externally in folk medicine as a poultice for minor skin inflammation and nail issues."
+  },
+  "35Arachis_hypogaea(AH)": {
+    "key": "35Arachis_hypogaea(AH)",
+    "common_name": "Mani (Peanut)",
+    "scientific_name": "Arachis hypogaea",
+    "other_local_names": [
+      "Mani",
+      "Peanut"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "Severe allergen risk for individuals with peanut allergies.",
+    "traditional_uses": "Referenced in ethnobotanical surveys for mild sedative compounds (luteolin) studied in leaf extracts."
+  },
+  "36Tamarindus_indica(TI)": {
+    "key": "36Tamarindus_indica(TI)",
+    "common_name": "Sampalok (Tamarind)",
+    "scientific_name": "Tamarindus indica",
+    "other_local_names": [
+      "Sampalok",
+      "Sambag",
+      "Tamarind"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Leaves are widely used in Filipino cuisine and traditionally referenced for aromatic steam baths and fever comfort."
+  },
+  "37Leucaena_leucocephala(LL)": {
+    "key": "37Leucaena_leucocephala(LL)",
+    "common_name": "Ipil-ipil",
+    "scientific_name": "Leucaena leucocephala",
+    "other_local_names": [
+      "Ipil-ipil",
+      "Santa Elena"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "Contains mimosine; excessive consumption can cause adverse effects.",
+    "traditional_uses": "Referenced in traditional Philippine folk medicine for anthelmintic studies."
+  },
+  "38Ipomoea_batatas(IPB)": {
+    "key": "38Ipomoea_batatas(IPB)",
+    "common_name": "Talbos ng Kamote (Sweet Potato)",
+    "scientific_name": "Ipomoea batatas",
+    "other_local_names": [
+      "Kamote",
+      "Talbos ng Kamote",
+      "Sweet potato tops"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Nutritious leafy vegetable rich in polyphenols, iron, and vitamins; traditionally noted for general vitality."
+  },
+  "39Manihot_esculenta(ME)": {
+    "key": "39Manihot_esculenta(ME)",
+    "common_name": "Kamoteng Kahoy (Cassava)",
+    "scientific_name": "Manihot esculenta",
+    "other_local_names": [
+      "Kamoteng Kahoy",
+      "Balanghoy",
+      "Cassava"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": "CAUTION: Raw cassava leaves contain cyanogenic glycosides and must never be consumed raw.",
+    "traditional_uses": "Studied in nutritional ethnobotany; requires thorough culinary processing to remove natural toxins."
+  },
+  "3Antidesma_bunius(AB)": {
+    "key": "3Antidesma_bunius(AB)",
+    "common_name": "Bignay",
+    "scientific_name": "Antidesma bunius",
+    "other_local_names": [
+      "Bignay",
+      "Bugnay"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Indigenous Philippine tree whose leaves and berries are traditionally referenced for antioxidant properties."
+  },
+  "40Citrus_maxima(CMA)": {
+    "key": "40Citrus_maxima(CMA)",
+    "common_name": "Suha (Pomelo)",
+    "scientific_name": "Citrus maxima",
+    "other_local_names": [
+      "Suha",
+      "Lukban",
+      "Pomelo"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Aromatic leaves traditionally used in relaxing herbal baths and mild digestive infusions."
+  },
+  "4Vitex_negundo(VN)": {
+    "key": "4Vitex_negundo(VN)",
+    "common_name": "Lagundi",
+    "scientific_name": "Vitex negundo",
+    "other_local_names": [
+      "Lagundi",
+      "Dangla",
+      "Five-leaved chaste tree"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "DOH-endorsed medicinal plant clinically recognized for relief of mild to moderate cough and asthma symptoms."
+  },
+  "5Moringa_oleifera(MO)": {
+    "key": "5Moringa_oleifera(MO)",
+    "common_name": "Malunggay",
+    "scientific_name": "Moringa oleifera",
+    "other_local_names": [
+      "Malunggay",
+      "Marunggay",
+      "Moringa"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Nutrient-dense vegetable traditionally recognized for supporting lactation, nutrition, and antioxidant intake."
+  },
+  "6Blumea_balsamifera(BB)": {
+    "key": "6Blumea_balsamifera(BB)",
+    "common_name": "Sambong",
+    "scientific_name": "Blumea balsamifera",
+    "other_local_names": [
+      "Sambong",
+      "Bukadkad",
+      "Ngai camphor"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "DOH-endorsed medicinal plant traditionally used as a diuretic and supportive therapy for urinary stones."
+  },
+  "7Origanum_vulgare(OV)": {
+    "key": "7Origanum_vulgare(OV)",
+    "common_name": "Oregano (Philippine Oregano / Suganda)",
+    "scientific_name": "Coleus amboinicus (syn. Plectranthus amboinicus)",
+    "other_local_names": [
+      "Oregano",
+      "Suganda",
+      "Kalabo",
+      "Indian borage",
+      "Cuban oregano"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Common Philippine household aromatic herb (botanically Coleus amboinicus; indexed under dataset key Origanum vulgare) traditionally referenced for soothing mild coughs and upper respiratory discomfort."
+  },
+  "8Pepromia_pellucida(PP)": {
+    "key": "8Pepromia_pellucida(PP)",
+    "common_name": "Pansit-pansitan (Ulasimang Bato)",
+    "scientific_name": "Peperomia pellucida",
+    "other_local_names": [
+      "Pansit-pansitan",
+      "Ulasimang Bato",
+      "Shiny bush"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "DOH-endorsed medicinal herb traditionally recognized for helping manage mild uric acid elevation."
+  },
+  "9Centella_asiatica(CA)": {
+    "key": "9Centella_asiatica(CA)",
+    "common_name": "Takip-kohol (Gotu Kola)",
+    "scientific_name": "Centella asiatica",
+    "other_local_names": [
+      "Takip-kohol",
+      "Yahong-yahong",
+      "Gotu kola"
+    ],
+    "is_medicinal": true,
+    "toxicity_alert": null,
+    "traditional_uses": "Traditionally referenced in Asian ethnobotany for wound healing support and circulatory wellness."
+  },
+  "Non_Medicinal_Unknown": {
+    "key": "Non_Medicinal_Unknown",
+    "common_name": "Non-Medicinal / Unknown Foliage",
+    "scientific_name": "Out-of-Target Species",
+    "other_local_names": [],
+    "is_medicinal": false,
+    "toxicity_alert": "Not part of the 40 target medicinal species database. Do not assume medicinal value or safety.",
+    "traditional_uses": "N/A — Classified as non-target crop or unrecognized foliage."
+  }
+}
